@@ -7,6 +7,8 @@
 
 注：编译时请使用16版本或更低的NDK,新版本并不适合本项目
 
+第二次上传加了一个功能模块，在此不展示，更换了平均脸的方法
+
 进入APP显示选择界面，可以选择变脸和平均脸
 
  ![image](https://github.com/liujilong0116/Android-MagicFace/blob/master/image/select.png)
