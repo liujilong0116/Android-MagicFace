@@ -1,0 +1,21 @@
+{
+  "buildFiles": [
+    "F:\\AD_Work\\try_again_opencv\\app\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "H:\\Android_Studio_SDK\\cmake\\3.6.4111459\\bin\\cmake.exe --build F:\\AD_Work\\try_again_opencv\\app\\.externalNativeBuild\\cmake\\debug\\armeabi --target clean"
+  ],
+  "libraries": {
+    "native-lib-Debug-armeabi": {
+      "artifactName": "native-lib",
+      "buildCommand": "H:\\Android_Studio_SDK\\cmake\\3.6.4111459\\bin\\cmake.exe --build F:\\AD_Work\\try_again_opencv\\app\\.externalNativeBuild\\cmake\\debug\\armeabi --target native-lib",
+      "abi": "armeabi",
+      "output": "F:\\AD_Work\\try_again_opencv\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi\\libnative-lib.so"
+    },
+    "libopencv_java3-Debug-armeabi": {
+      "artifactName": "libopencv_java3",
+      "abi": "armeabi",
+      "output": "F:\\AD_Work\\try_again_opencv\\app\\src\\main\\jniLibs\\armeabi\\libopencv_java3.so"
+    }
+  }
+}

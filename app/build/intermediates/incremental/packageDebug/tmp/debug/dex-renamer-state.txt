@@ -1,0 +1,4 @@
+#Sun Mar 17 15:52:26 CST 2019
+base.0=F\:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

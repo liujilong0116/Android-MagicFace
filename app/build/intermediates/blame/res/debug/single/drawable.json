@@ -1,0 +1,278 @@
+[
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f426d496ac0c44ad1261d82099102b0d\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f426d496ac0c44ad1261d82099102b0d\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\face.png",
+        "source": "F:\\AD_Work\\My_FaceswapV1.3\\app\\src\\main\\res\\drawable\\face.png"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f426d496ac0c44ad1261d82099102b0d\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\53846a33314c38c3d3deec9b96c928fc\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f426d496ac0c44ad1261d82099102b0d\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f426d496ac0c44ad1261d82099102b0d\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\53846a33314c38c3d3deec9b96c928fc\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f426d496ac0c44ad1261d82099102b0d\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f426d496ac0c44ad1261d82099102b0d\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jbshape.xml",
+        "source": "F:\\AD_Work\\My_FaceswapV1.3\\app\\src\\main\\res\\drawable\\jbshape.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f426d496ac0c44ad1261d82099102b0d\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f426d496ac0c44ad1261d82099102b0d\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vary.png",
+        "source": "F:\\AD_Work\\My_FaceswapV1.3\\app\\src\\main\\res\\drawable\\vary.png"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f426d496ac0c44ad1261d82099102b0d\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f426d496ac0c44ad1261d82099102b0d\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f426d496ac0c44ad1261d82099102b0d\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gif.png",
+        "source": "F:\\AD_Work\\My_FaceswapV1.3\\app\\src\\main\\res\\drawable\\gif.png"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f426d496ac0c44ad1261d82099102b0d\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gotomorph.png",
+        "source": "F:\\AD_Work\\My_FaceswapV1.3\\app\\src\\main\\res\\drawable\\gotomorph.png"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f426d496ac0c44ad1261d82099102b0d\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f426d496ac0c44ad1261d82099102b0d\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_divider_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f426d496ac0c44ad1261d82099102b0d\\res\\drawable\\abc_list_divider_material.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f426d496ac0c44ad1261d82099102b0d\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f426d496ac0c44ad1261d82099102b0d\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\doswap.png",
+        "source": "F:\\AD_Work\\My_FaceswapV1.3\\app\\src\\main\\res\\drawable\\doswap.png"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\three.png",
+        "source": "F:\\AD_Work\\My_FaceswapV1.3\\app\\src\\main\\res\\drawable\\three.png"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f426d496ac0c44ad1261d82099102b0d\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\average.png",
+        "source": "F:\\AD_Work\\My_FaceswapV1.3\\app\\src\\main\\res\\drawable\\average.png"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\one.png",
+        "source": "F:\\AD_Work\\My_FaceswapV1.3\\app\\src\\main\\res\\drawable\\one.png"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exchange.png",
+        "source": "F:\\AD_Work\\My_FaceswapV1.3\\app\\src\\main\\res\\drawable\\exchange.png"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f426d496ac0c44ad1261d82099102b0d\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\swap.png",
+        "source": "F:\\AD_Work\\My_FaceswapV1.3\\app\\src\\main\\res\\drawable\\swap.png"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dovary.png",
+        "source": "F:\\AD_Work\\My_FaceswapV1.3\\app\\src\\main\\res\\drawable\\dovary.png"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f426d496ac0c44ad1261d82099102b0d\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\down.png",
+        "source": "F:\\AD_Work\\My_FaceswapV1.3\\app\\src\\main\\res\\drawable\\down.png"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\two.png",
+        "source": "F:\\AD_Work\\My_FaceswapV1.3\\app\\src\\main\\res\\drawable\\two.png"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f426d496ac0c44ad1261d82099102b0d\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\again.png",
+        "source": "F:\\AD_Work\\My_FaceswapV1.3\\app\\src\\main\\res\\drawable\\again.png"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pic1.png",
+        "source": "F:\\AD_Work\\My_FaceswapV1.3\\app\\src\\main\\res\\drawable\\pic1.png"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f426d496ac0c44ad1261d82099102b0d\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f426d496ac0c44ad1261d82099102b0d\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f426d496ac0c44ad1261d82099102b0d\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f426d496ac0c44ad1261d82099102b0d\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dogif.png",
+        "source": "F:\\AD_Work\\My_FaceswapV1.3\\app\\src\\main\\res\\drawable\\dogif.png"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f426d496ac0c44ad1261d82099102b0d\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f426d496ac0c44ad1261d82099102b0d\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f426d496ac0c44ad1261d82099102b0d\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_preview_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\ImageSelector-0.1.0.aar\\f05a02bd9b62399e78fdeac3291a07ef\\res\\drawable\\bg_preview_bottom.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pic2.png",
+        "source": "F:\\AD_Work\\My_FaceswapV1.3\\app\\src\\main\\res\\drawable\\pic2.png"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f426d496ac0c44ad1261d82099102b0d\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\four.png",
+        "source": "F:\\AD_Work\\My_FaceswapV1.3\\app\\src\\main\\res\\drawable\\four.png"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f426d496ac0c44ad1261d82099102b0d\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\welcome.png",
+        "source": "F:\\AD_Work\\My_FaceswapV1.3\\app\\src\\main\\res\\drawable\\welcome.png"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera.png",
+        "source": "F:\\AD_Work\\My_FaceswapV1.3\\app\\src\\main\\res\\drawable\\camera.png"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f426d496ac0c44ad1261d82099102b0d\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f426d496ac0c44ad1261d82099102b0d\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f426d496ac0c44ad1261d82099102b0d\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\53846a33314c38c3d3deec9b96c928fc\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_preview_top.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\ImageSelector-0.1.0.aar\\f05a02bd9b62399e78fdeac3291a07ef\\res\\drawable\\bg_preview_top.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pic3.png",
+        "source": "F:\\AD_Work\\My_FaceswapV1.3\\app\\src\\main\\res\\drawable\\pic3.png"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.png",
+        "source": "F:\\AD_Work\\My_FaceswapV1.3\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_selected_tip.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\ImageSelector-0.1.0.aar\\f05a02bd9b62399e78fdeac3291a07ef\\res\\drawable\\bg_selected_tip.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f426d496ac0c44ad1261d82099102b0d\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gotoexchange.png",
+        "source": "F:\\AD_Work\\My_FaceswapV1.3\\app\\src\\main\\res\\drawable\\gotoexchange.png"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gotochange.png",
+        "source": "F:\\AD_Work\\My_FaceswapV1.3\\app\\src\\main\\res\\drawable\\gotochange.png"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\53846a33314c38c3d3deec9b96c928fc\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f426d496ac0c44ad1261d82099102b0d\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\f426d496ac0c44ad1261d82099102b0d\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    }
+]

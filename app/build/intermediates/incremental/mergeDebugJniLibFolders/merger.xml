@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\AD_Work\My_FaceswapV1.3\app\src\main\JniLibs"><file name="armeabi-v7a/libopencv_java3.so" path="F:\AD_Work\My_FaceswapV1.3\app\src\main\JniLibs\armeabi-v7a\libopencv_java3.so"/></source></dataSet><dataSet config="debug"><source path="F:\AD_Work\My_FaceswapV1.3\app\src\debug\jniLibs"/></dataSet></merger>

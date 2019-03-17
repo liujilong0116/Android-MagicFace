@@ -1,0 +1,40 @@
+
+{
+	"buildFiles" : 
+	[
+		"F:/AD_Work/My_FaceswapV1.3/app/src/main/cpp/dlib/cmake_utils/test_for_cpp11/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"H:\\Android_Studio_SDK\\cmake\\3.6.4111459\\bin\\cmake.exe --build F:\\AD_Work\\My_FaceswapV1.3\\app\\.externalNativeBuild\\cmake\\release\\armeabi-v7a\\cpp11_test_build --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"cpp11_test-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "cpp11_test",
+			"buildCommand" : "H:\\Android_Studio_SDK\\cmake\\3.6.4111459\\bin\\cmake.exe --build F:\\AD_Work\\My_FaceswapV1.3\\app\\.externalNativeBuild\\cmake\\release\\armeabi-v7a\\cpp11_test_build --target cpp11_test",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=H:/Android_Studio_SDK/android-ndk-r16b/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=H:/Android_Studio_SDK/android-ndk-r16b/sysroot   -isystem H:\\Android_Studio_SDK\\android-ndk-r16b\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem H:\\Android_Studio_SDK\\android-ndk-r16b\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\armeabi-v7a\\include -isystem H:\\Android_Studio_SDK\\android-ndk-r16b\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -isystem H:/Android_Studio_SDK/android-ndk-r16b/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=14 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security     -std=c++11  -c ",
+					"src" : "F:/AD_Work/My_FaceswapV1.3/app/src/main/cpp/dlib/cmake_utils/test_for_cpp11/cpp11_test.cpp",
+					"workingDirectory" : "F:/AD_Work/My_FaceswapV1.3/app/.externalNativeBuild/cmake/release/armeabi-v7a/cpp11_test_build"
+				}
+			],
+			"output" : "F:/AD_Work/My_FaceswapV1.3/app/.externalNativeBuild/cmake/release/armeabi-v7a/cpp11_test_build/libcpp11_test.a",
+			"toolchain" : "1519375507"
+		}
+	},
+	"toolchains" : 
+	{
+		"1519375507" : 
+		{
+			"cCompilerExecutable" : "H:/Android_Studio_SDK/android-ndk-r16b/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "H:/Android_Studio_SDK/android-ndk-r16b/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

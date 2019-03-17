@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher_background.png",
+        "source": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_back.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\ImageSelector-0.1.0.aar\\f05a02bd9b62399e78fdeac3291a07ef\\res\\drawable-ldpi-v4\\ic_back.png"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_round_check_fill.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\ImageSelector-0.1.0.aar\\f05a02bd9b62399e78fdeac3291a07ef\\res\\drawable-ldpi-v4\\ic_round_check_fill.png"
+    },
+    {
+        "merged": "F:\\AD_Work\\My_FaceswapV1.3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_round_check.png",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\ImageSelector-0.1.0.aar\\f05a02bd9b62399e78fdeac3291a07ef\\res\\drawable-ldpi-v4\\ic_round_check.png"
+    }
+]

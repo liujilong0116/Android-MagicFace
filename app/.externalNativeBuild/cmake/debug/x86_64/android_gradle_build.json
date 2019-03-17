@@ -1,0 +1,46 @@
+
+{
+	"buildFiles" : [ "F:/AD_Work/try_again_opencv/app/CMakeLists.txt" ],
+	"cleanCommands" : 
+	[
+		"H:\\Android_Studio_SDK\\cmake\\3.6.4111459\\bin\\cmake.exe --build F:\\AD_Work\\try_again_opencv\\app\\.externalNativeBuild\\cmake\\debug\\x86_64 --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"libopencv_java3-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "libopencv_java3",
+			"buildType" : "debug",
+			"output" : "F:/AD_Work/try_again_opencv/app/src/main/jniLibs/x86_64/libopencv_java3.so",
+			"toolchain" : "3826681657"
+		},
+		"native-lib-Debug-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "native-lib",
+			"buildCommand" : "H:\\Android_Studio_SDK\\cmake\\3.6.4111459\\bin\\cmake.exe --build F:\\AD_Work\\try_again_opencv\\app\\.externalNativeBuild\\cmake\\debug\\x86_64 --target native-lib",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  -target x86_64-none-linux-android -gcc-toolchain H:/Android_Studio_SDK/android-ndk-r13b/toolchains/x86_64-4.9/prebuilt/windows-x86_64 --sysroot=H:/Android_Studio_SDK/android-ndk-r13b/platforms/android-21/arch-x86_64  -Dnative_lib_EXPORTS -I..\\..\\..\\..\\src\\main\\cpp\\include -isystem H:\\Android_Studio_SDK\\android-ndk-r13b\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem H:\\Android_Studio_SDK\\android-ndk-r13b\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\x86_64\\include -isystem H:\\Android_Studio_SDK\\android-ndk-r13b\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti  -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "F:/AD_Work/try_again_opencv/app/src/main/cpp/native-lib.cpp",
+					"workingDirectory" : "F:/AD_Work/try_again_opencv/app/.externalNativeBuild/cmake/debug/x86_64"
+				}
+			],
+			"output" : "F:/AD_Work/try_again_opencv/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so",
+			"toolchain" : "3826681657"
+		}
+	},
+	"toolchains" : 
+	{
+		"3826681657" : 
+		{
+			"cCompilerExecutable" : "H:/Android_Studio_SDK/android-ndk-r13b/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "H:/Android_Studio_SDK/android-ndk-r13b/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

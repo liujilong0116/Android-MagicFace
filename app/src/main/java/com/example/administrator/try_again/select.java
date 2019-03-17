@@ -13,6 +13,7 @@ import android.widget.ImageButton;
 public class select extends AppCompatActivity implements View.OnClickListener{
     private ImageButton gotochange ;
     private ImageButton gotomorph ;
+    private ImageButton gotoexchange;
 
     static {
         System.loadLibrary("native-lib");
@@ -41,6 +42,7 @@ public class select extends AppCompatActivity implements View.OnClickListener{
         setContentView(R.layout.select);
         gotochange = findViewById(R.id.gotochange);
         gotomorph = findViewById(R.id.gotomorph);
+        gotoexchange = findViewById(R.id.gotoexchange);
 
         //把assets里的文件下载到指定路径
         try {
@@ -54,6 +56,7 @@ public class select extends AppCompatActivity implements View.OnClickListener{
         createswap();//加载模型，需要占用时间，导致打开项目缓慢
         gotochange.setOnClickListener(this);
         gotomorph.setOnClickListener(this);
+        gotoexchange.setOnClickListener(this);
     }
 
     public void onClick(View view){
@@ -64,7 +67,11 @@ public class select extends AppCompatActivity implements View.OnClickListener{
         }
         //按下平均脸转跳到morph
         if(view.getId()==R.id.gotomorph){
-            Intent intent = new Intent(select.this,morph.class);
+            Intent intent = new Intent(select.this,average.class);
+            startActivity(intent);
+        }
+        if(view.getId()==R.id.gotoexchange){
+            Intent intent = new Intent(select.this,exchange.class);
             startActivity(intent);
         }
     }

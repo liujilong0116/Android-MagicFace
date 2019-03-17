@@ -1,0 +1,6 @@
+F:/AD_Work/My_FaceswapV1.3/app/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/native-lib.dir
+F:/AD_Work/My_FaceswapV1.3/app/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+F:/AD_Work/My_FaceswapV1.3/app/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+F:/AD_Work/My_FaceswapV1.3/app/.externalNativeBuild/cmake/debug/armeabi-v7a/dlib_build/CMakeFiles/dlib.dir
+F:/AD_Work/My_FaceswapV1.3/app/.externalNativeBuild/cmake/debug/armeabi-v7a/dlib_build/CMakeFiles/edit_cache.dir
+F:/AD_Work/My_FaceswapV1.3/app/.externalNativeBuild/cmake/debug/armeabi-v7a/dlib_build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+F:/AD_Work/try_again_opencv/app/.externalNativeBuild/cmake/debug/mips/CMakeFiles/native-lib.dir
+F:/AD_Work/try_again_opencv/app/.externalNativeBuild/cmake/debug/mips/CMakeFiles/edit_cache.dir
+F:/AD_Work/try_again_opencv/app/.externalNativeBuild/cmake/debug/mips/CMakeFiles/rebuild_cache.dir

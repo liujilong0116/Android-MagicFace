@@ -1,0 +1,35 @@
+-- Check for working C compiler: H:/Android_Studio_SDK/android-ndk-r16b/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe
+-- Check for working C compiler: H:/Android_Studio_SDK/android-ndk-r16b/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: H:/Android_Studio_SDK/android-ndk-r16b/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe
+-- Check for working CXX compiler: H:/Android_Studio_SDK/android-ndk-r16b/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Building a C++11 test project to see if your compiler supports C++11
+-- C++11 activated.
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Looking for pthread_create
+-- Looking for pthread_create - found
+-- Found Threads: TRUE  
+-- Searching for BLAS and LAPACK
+-- Could NOT find PkgConfig (missing:  PKG_CONFIG_EXECUTABLE) 
+-- Looking for sys/types.h
+-- Looking for sys/types.h - found
+-- Looking for stdint.h
+-- Looking for stdint.h - found
+-- Looking for stddef.h
+-- Looking for stddef.h - found
+-- Check size of void*
+-- Check size of void* - done
+-- Could NOT find CUDA (missing:  CUDA_TOOLKIT_ROOT_DIR CUDA_NVCC_EXECUTABLE CUDA_INCLUDE_DIRS CUDA_CUDART_LIBRARY) (Required is at least version "7.5")
+-- *** cuDNN V5.0 OR GREATER NOT FOUND.  DLIB WILL NOT USE CUDA. ***
+-- *** If you have cuDNN then set CMAKE_PREFIX_PATH to include cuDNN's folder.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: F:/AD_Work/My_FaceswapV1.3/app/.externalNativeBuild/cmake/debug/armeabi-v7a

@@ -25,7 +25,8 @@
         <activity android:name=".swap"></activity>
         <activity android:name=".vary"></activity>
         <activity android:name=".gif"></activity>
-        <activity android:name=".morph"></activity>
+        <activity android:name=".average"></activity>
+        <activity android:name=".exchange"></activity>
     </application>
 
 </manifest>
